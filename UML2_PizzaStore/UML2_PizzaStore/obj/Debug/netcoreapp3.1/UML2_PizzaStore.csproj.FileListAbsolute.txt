@@ -1,0 +1,14 @@
+C:\Users\Ejer\Desktop\ZealandC#\UML2_PizzaStore\UML2_PizzaStore\bin\Debug\netcoreapp3.1\UML2_PizzaStore.exe
+C:\Users\Ejer\Desktop\ZealandC#\UML2_PizzaStore\UML2_PizzaStore\bin\Debug\netcoreapp3.1\UML2_PizzaStore.deps.json
+C:\Users\Ejer\Desktop\ZealandC#\UML2_PizzaStore\UML2_PizzaStore\bin\Debug\netcoreapp3.1\UML2_PizzaStore.runtimeconfig.json
+C:\Users\Ejer\Desktop\ZealandC#\UML2_PizzaStore\UML2_PizzaStore\bin\Debug\netcoreapp3.1\UML2_PizzaStore.runtimeconfig.dev.json
+C:\Users\Ejer\Desktop\ZealandC#\UML2_PizzaStore\UML2_PizzaStore\bin\Debug\netcoreapp3.1\UML2_PizzaStore.dll
+C:\Users\Ejer\Desktop\ZealandC#\UML2_PizzaStore\UML2_PizzaStore\bin\Debug\netcoreapp3.1\UML2_PizzaStore.pdb
+C:\Users\Ejer\Desktop\ZealandC#\UML2_PizzaStore\UML2_PizzaStore\obj\Debug\netcoreapp3.1\UML2_PizzaStore.csproj.AssemblyReference.cache
+C:\Users\Ejer\Desktop\ZealandC#\UML2_PizzaStore\UML2_PizzaStore\obj\Debug\netcoreapp3.1\UML2_PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ejer\Desktop\ZealandC#\UML2_PizzaStore\UML2_PizzaStore\obj\Debug\netcoreapp3.1\UML2_PizzaStore.AssemblyInfoInputs.cache
+C:\Users\Ejer\Desktop\ZealandC#\UML2_PizzaStore\UML2_PizzaStore\obj\Debug\netcoreapp3.1\UML2_PizzaStore.AssemblyInfo.cs
+C:\Users\Ejer\Desktop\ZealandC#\UML2_PizzaStore\UML2_PizzaStore\obj\Debug\netcoreapp3.1\UML2_PizzaStore.csproj.CoreCompileInputs.cache
+C:\Users\Ejer\Desktop\ZealandC#\UML2_PizzaStore\UML2_PizzaStore\obj\Debug\netcoreapp3.1\UML2_PizzaStore.dll
+C:\Users\Ejer\Desktop\ZealandC#\UML2_PizzaStore\UML2_PizzaStore\obj\Debug\netcoreapp3.1\UML2_PizzaStore.pdb
+C:\Users\Ejer\Desktop\ZealandC#\UML2_PizzaStore\UML2_PizzaStore\obj\Debug\netcoreapp3.1\UML2_PizzaStore.genruntimeconfig.cache
